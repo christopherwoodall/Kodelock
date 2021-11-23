@@ -1,2 +1,7 @@
 pillow
-pynput 
+pynput
+opencv-python
+numpy
+python3_xlib
+pyautogui
+mss
